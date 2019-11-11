@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ccb0a62e-9f4f-458e-b7eb-13b59d06f123" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/aceleradev/biblioteca/controllers/LivroController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/aceleradev/biblioteca/repositories/LivroRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aceleradev-aula04/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../aceleradev-aula04/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aceleradev-aula04/src/main/java/br/com/aceleradev/domain/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aceleradev-aula04/src/main/java/br/com/aceleradev/domain/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aceleradev-aula04/src/main/java/br/com/aceleradev/domain/Coordenador.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aceleradev-aula04/src/main/java/br/com/aceleradev/domain/Coordenador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aceleradev-aula04/src/main/java/br/com/aceleradev/domain/Diretor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aceleradev-aula04/src/main/java/br/com/aceleradev/domain/Diretor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aceleradev-aula04/src/main/java/br/com/aceleradev/domain/Disciplina.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aceleradev-aula04/src/main/java/br/com/aceleradev/domain/Disciplina.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aceleradev-aula04/src/main/java/br/com/aceleradev/domain/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aceleradev-aula04/src/main/java/br/com/aceleradev/domain/Professor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aceleradev-aula04/src/main/java/br/com/aceleradev/domain/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aceleradev-aula04/src/main/java/br/com/aceleradev/domain/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aceleradev-aula04/src/main/java/br/com/aceleradev/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aceleradev-aula04/src/main/java/br/com/aceleradev/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aceleradev-aula04/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../aceleradev-aula04/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aceleradev-aula04/target/classes/META-INF/aceleradev-aula.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aceleradev-aula04/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../aceleradev-aula04/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aceleradev-aula04/target/classes/br/com/aceleradev/domain/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aceleradev-aula04/target/classes/br/com/aceleradev/domain/Aluno.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aceleradev-aula04/target/classes/br/com/aceleradev/domain/Coordenador.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aceleradev-aula04/target/classes/br/com/aceleradev/domain/Coordenador.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aceleradev-aula04/target/classes/br/com/aceleradev/domain/Diretor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aceleradev-aula04/target/classes/br/com/aceleradev/domain/Diretor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aceleradev-aula04/target/classes/br/com/aceleradev/domain/Disciplina.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aceleradev-aula04/target/classes/br/com/aceleradev/domain/Disciplina.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aceleradev-aula04/target/classes/br/com/aceleradev/domain/Professor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aceleradev-aula04/target/classes/br/com/aceleradev/domain/Professor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aceleradev-aula04/target/classes/br/com/aceleradev/domain/Usuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aceleradev-aula04/target/classes/br/com/aceleradev/domain/Usuario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aceleradev-aula04/target/classes/br/com/aceleradev/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../aceleradev-aula04/target/classes/br/com/aceleradev/main/Main.class" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1TOJozRoiyoELX6XQIcrZ25QnMP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="BibliotecaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.aceleradev.biblioteca.BibliotecaApplication" />
+      <module name="biblioteca" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.aceleradev.biblioteca.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BibliotecaApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccb0a62e-9f4f-458e-b7eb-13b59d06f123" name="Default Changelist" comment="" />
+      <created>1573325386461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573325386461</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
